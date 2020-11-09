@@ -1,0 +1,53 @@
+<html>
+
+<head>
+<title>GRUPOS SANGUINEOS</title>
+</head>
+
+<body>
+<body background="fondo2.jpg">
+
+<font face="Arial" size=5 color=black>
+
+<ol>
+<li><a id=inicio><a href=#subtema1>Determinación del grupo sanguíneo</a></li>
+<li><a href=#subtema2>Grupo sanguíneo A</a></li>
+</ol>
+</font>
+<p align="center"><img src="principal2.jpg" width="550" height="300">
+<hr size="10"></hr>
+</p>
+
+<font face="Arial" size=3 color=black>
+
+<ol>
+<img src="Sangre.jpg" width="200" height="200" align="right">
+
+<li><a id=subtema1><p><font color=blue>Determinación del grupo sanguíneo</font></p></a></li>
+
+<p align="justify">
+Es un método para indicarle cuál es el tipo de sangre que usted tiene. La determinación del grupo sanguíneo se realiza para que usted pueda donar sangre o recibir una transfusión de sangre de manera segura. También se realiza para ver si usted posee una sustancia llamada factor Rh en la superficie de sus glóbulos rojos.<br><br>
+El tipo de sangre que usted tenga depende de si hay o no ciertas proteínas en sus glóbulos rojos. Estas proteínas se llaman antígenos. Su tipo de sangre (o grupo sanguíneo) depende de qué tipos de sangre heredó de sus padres.<br><br>
+-PRIMER PASO:Se necesita una muestra de sangre. El examen para determinar el grupo sanguíneo se denomina tipificación ABO. Su muestra de sangre se mezcla con anticuerpos contra sangre tipo A y tipo B. Entonces, la muestra se revisa para ver si los glóbulos sanguíneos se pegan o no. Si los glóbulos permanecen juntos, eso significa que la sangre reaccionó con uno de los anticuerpos.<br><br>
+-SEGUNDO PASO:se llama prueba inversa. La parte líquida de la sangre sin células (suero) se mezcla con sangre que se sabe que pertenece al tipo A o al tipo B. Las personas con sangre tipo A tienen anticuerpos anti-B. Las personas que tienen sangre tipo B tienen anticuerpos anti-A. El tipo de sangre O contiene ambos tipos de anticuerpos.
+</p>
+
+<p align="right"><a href=#inicio><button>Inicio</button></a></p>
+<hr size="10"></hr>
+
+<li><a id=subtema2><p><font color=blue>Grupo Sanguíneo A</font></p></a></li>
+
+<img src="TipoA.jpg" width="150" height="150" align="left">
+<p align=justify>
+Las personas con sangre del tipo A: sus glóbulos rojos expresan antígenos de tipo A en su superficie y desarrollan anticuerpos contra los antígenos B en el plasma.<br><br>
+-A POSITIVO: A+ es el segundo tipo de sangre más común, afectando a 1 de cada 3 personas o el 35.7% de la población. A+ puede darle a personas de tipos A+ y AB+, y pueden recibir de cualquier tipo A u O. A los donantes de sangre tipo A+ se les recomienda que donen sangre entera y plaquetas.<br><br>
+-A NEGATIVO: 1 de cada 16 personas, o el 6.3% de la población tiene sangre tipo A-. A- le puede dar a otras personas de A- pero también a A+, AB+ y AB-, pero sólo puede recibir de A- y O-. A los donantes de sangre tipo A- se les recomienda que donen sangre entera y glóbulos rojos dobles.
+</p>
+
+<p align="right"><a href=#inicio><button>Inicio</button></a></p>
+
+</ol>
+</font>
+
+</body>
+</html>

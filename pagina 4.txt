@@ -1,0 +1,78 @@
+<html>
+
+<head>
+<title>GRUPOS SANGUINEOS</title>
+</head>
+
+<body>
+<body background="fondo2.jpg">
+
+<font face="Arial" size=5 color=black>
+
+<ol start="5">
+<li><a id=inicio><a href=#subtema1>Grupo sanguíneo O</a></li>
+<li><a href=#subtema2>Compatibilidad</a></li>
+</ol>
+</font>
+
+<p align="center"><img src="principal4.jpg" width="450" height="210">
+<hr size="10"></hr>
+</p>
+
+<font face="Arial" size=3 color=black>
+
+<ol start="5">
+<img src="TipoO.jpg" width="200" height="200" align="right">
+
+<li><a id=subtema1><p><font color=blue>Grupo sanguíneo O</font></p></a></li>
+
+<p align="justify">
+Las personas con sangre del tipo O: no tienen dichos antígenos (A o B) en la superficie de sus glóbulos rojos y desarrollan anticuerpos contra ambos tipos.<br><br>
+-O POSITIVO:El tipo de sangre más común es la O+ y se encuentra en 1 de cada 3 personas o el 37.4% de la población. Las personas con O+ le pueden dar a todos los tipos de sangre positivos, pero sólo pueden recibir de O+ u O-. A los donantes con sangre tipo O+ se les recomienda donar glóbulos rojos dobles y sangre entera.<br><br>
+-O NEGATIVO:El tipo de sangre con la mayor demanda es la O-, la cual constituye solo el 6.6% de la población o lo equivalente a 1 de cada 15 personas. Las personas con el tipo de sangre O- son consideradas donantes universales y pueden donar sangre a todos los tipos de sangre, pero sólo pueden recibir de sus donantes tipo O-. A los donantes de sangre tipo O- se les recomienda donar glóbulos rojos dobles y sangre entera.
+</p>
+
+<p align="right"><a href=#inicio><button>Inicio</button></a></p>
+<hr size="10"></hr>
+
+<li><a id=subtema2><p><font color=blue>Compatibilidad</font></p></a></li>
+
+<table align="center">
+<caption>Tabla de compatibilidad</caption>
+<table border="3" align="center">
+
+<tr>
+<td colspan="9">COMPATIBILIDAD DE GLÓBULOS ROJOS</td>
+</tr>
+<tr>
+<th rowspan="2">Receptor</th>
+<td colspan="8" align=center>DONADOR</td></tr>
+<tr> 
+<th>O-</th>
+<th>O+</th>
+<th>A-</th>
+<th>A+</th>
+<th>B-</th>
+<th>B+</th>
+<th>AB-</th>
+<th>AB+</th>
+</tr>
+
+<tr>
+<th>O-</th><td rowspan="8" align=center>✔</td><td colspan="2" align=center>X</td><td rowspan="3" align=center>X</td><td rowspan="4" align=center>X</td><td rowspan="5" align=center>X</td><td rowspan="6" align=center>X</td><td rowspan="7" align=center>X</td></tr>
+<tr><th>O+</th><td colspan="1" align=center>✔</td><td colspan="1" align=center>X</td></tr>
+<tr><th>A-</th><td colspan="1" align=center>X</td><td colspan="1" align=center>✔</td></tr>
+<tr><th>A+</th><td colspan="3" align=center>✔</td></tr>
+<tr><th>B-</th><td colspan="3" align=center>X</td><td colspan="1" align=center>✔</td></tr>
+<tr><th>B+</th><td colspan="1" align=center>✔</td><td colspan="2" align=center>X</td><td colspan="2" align=center>✔</td></tr>
+<tr><th>AB-</th><td colspan="1" align=center>X</td><td colspan="1" align=center>✔</td><td colspan="1" align=center>X</td><td colspan="1" align=center>✔</td><td colspan="1" align=center>X</td><td colspan="1" align=center>✔</td></tr>
+<tr><th>AB+</th><td colspan="7" align=center>✔</td></tr>
+
+</table>
+<p align="right"><a href=#inicio><button>Inicio</button></a></p>
+
+</ol>
+</font>
+
+</body>
+</html>

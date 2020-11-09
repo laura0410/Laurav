@@ -1,0 +1,52 @@
+<html>
+
+<head>
+<title>GRUPOS SANGUINEOS</title>
+</head>
+
+<body>
+<body background="fondo2.jpg">
+
+<font face="Arial" size=5 color=black>
+
+<ol start="3">
+<li><a id=inicio><a href=#subtema1>Grupo sanguineo B</a></li>
+<li><a href=#subtema2>Grupo sanguineo AB</a></li>
+</ol>
+</font>
+
+<p align="center"><img src="principal3.png" width="480" height="260">
+<hr size="10"></hr>
+</p>
+
+<font face="Arial" size=3 color=black>
+
+<ol start="3">
+<img src="TipoB.jpg" width="200" height="200" align="right">
+
+<li><a id=subtema1><p><font color=blue>Grupo sanguíneo B</font></p></a></li>
+
+<p align="justify">
+Las personas con sangre del tipo B: sus glóbulos rojos expresan antígenos de tipo B en su superficie y desarrollan anticuerpos contra los antígenos A en el plasma.<br><br>
+-B POSITIVO:El 8.5% de la población, o cada 1 de 12 personas tienen sangre tipo B+. Donantes de tipo B+ pueden dar a  personas de tipo B+ y AB+, y pueden recibir de personas de cualquier tipo de sangre B u O. Los donantes de sangre tipo B+ pueden lograr el mayor impacto con donaciones de sangre entera y de glóbulos rojos dobles.<br><br>
+-B NEGATIVO: La sangre tipo B- se encuentra en 1 de cada 67 personas, formando el 1.5% de la población. Este tipo de sangre menos común puede darle a personas de sangre tipo B+, B-, AB+ y AB-, pero sólo puede recibir de B- y O-. A los donantes de sangre tipo B- se les recomienda que donen sangre entera o plaquetas.
+</p>
+
+<p align="right"><a href=#inicio><button>Inicio</button></a></p>
+<hr size="10"></hr>
+
+<li><a id=subtema2><p><font color=blue>Grupo sanguineo AB</font></p></a></li>
+<img src="TipoAB.jpg" width="200" height="200" align="left">
+<p align=justify>
+Las personas con sangre del tipo AB: teniendo ambos antígenos en la superficie de sus glóbulos rojos, no fabrican anticuerpo alguno contra el antígeno A o B.<br><br>
+-AB POSITIVO: AB+ es el tipo de sangre más raro del tipo ABO, con sólo 1 de cada 29 personas, o 3.4% de la población con este tipo. AB+ sólo le puede dar a otros receptores de AB+, pero como el  receptor universal puede recibir de todos los otros tipos de sangre. A los donantes AB+ se les recomienda hacer donaciones de plaquetas y de plasma.<br><br>
+-AB NEGATIVO:El tipo de sangre más raro, el AB-, sólo lo tiene el 0.6% de la población, o 1 de cada 67 personas. El tipo de sangre AB- le puede donar a AB- y a AB+, y puede recibir de todos los tipos de sangre negativos. A los donantes del tipo de sangre AB- se le recomienda donar plaquetas y plasma.
+</p>
+
+<p align="right"><a href=#inicio><button>Inicio</button></a></p>
+
+</ol>
+</font>
+
+</body>
+</html>

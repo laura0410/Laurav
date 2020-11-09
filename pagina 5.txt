@@ -1,0 +1,22 @@
+<html>
+<body> <body background="fondo2.jpg">
+<center>
+<H1>GRUPOS SANGUINEOS</H1>
+<table border=2>
+<tr>
+<th><a href="pagina1.html" TARGET=c>HOME</th></th></tr></a>
+<tr>
+<td><p align="center"><a href="pagina2.html" TARGET=c>Determinación del grupo sanguíneo</a></td></tr> </a>
+<tr>
+<td><p align="center"><a href="pagina2.html" TARGET=c>Grupo sanguíneo A</a></td></tr> </a>
+<tr>
+<td><p align="center"><a href="pagina3.html" TARGET=c>Grupo sanguíneo B</a></td></tr> </a>
+<tr>
+<td><p align="center"><a href="pagina3.html" TARGET=c>Grupo sanguíneo AB</a></td></tr> </a>
+<tr>
+<td><p align="center"><a href="pagina4.html" TARGET=c>Grupo sanguíneo O</a></td></tr> </a>
+<tr>
+<td><p align="center"><a href="pagina4.html" TARGET=c>Compatibilidad</a></td></tr> </a>
+</table>
+</body>
+</html>
